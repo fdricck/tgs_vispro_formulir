@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tgs_vispro_formulir", "tgs_vispro_formulir\tgs_vispro_formulir.csproj", "{FB44B281-925E-4579-A205-BF8C38576834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB44B281-925E-4579-A205-BF8C38576834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB44B281-925E-4579-A205-BF8C38576834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB44B281-925E-4579-A205-BF8C38576834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB44B281-925E-4579-A205-BF8C38576834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE0C7865-ADA7-4014-8C2E-B337423EF531}
+	EndGlobalSection
+EndGlobal
